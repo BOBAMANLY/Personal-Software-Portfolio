@@ -14,9 +14,3 @@ Link:
 No extra libraries were used or needed.
 
 Python 3.9.7 
-
-# Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](https://byui-cse.github.io/cse310-course/lesson01/01-prove_campus.html)
-* [Web Site Name](https://byui-cse.github.io/cse310-course/modules/psp/README.md)
